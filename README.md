@@ -18,4 +18,4 @@ Simply run the file *titan124thrust.py* in Python. Prompts will appear for plott
 ## Package references
 van Driel, M., Krischer, L., Stähler, S. C., Hosseini, K., and Nissen-Meyer, T. (2015). Instaseis: instant global seismograms based on a broadband waveform database. *Solid Earth, 6*, 701-717. http://dx.doi.org/10.5194/se-6-701-2015
 
-M. Beyreuther, R. Barsch, L. Krischer, T. Megies, Y. Behr and J. Wassermann (2010). ObsPy: A Python Toolbox for Seismology. *SRL, 81*(3), 530-533. https://doi.org/10.1785/gssrl.81.3.530
+Beyreuther, M., Barsch, R., Krischer, L., Megies, T., Behr, Y., and Wassermann, J. (2010). ObsPy: A Python Toolbox for Seismology. *SRL, 81*(3), 530-533. https://doi.org/10.1785/gssrl.81.3.530
