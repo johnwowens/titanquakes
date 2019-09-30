@@ -1,4 +1,4 @@
-# Calculation of Titan-quakes using Instaseis.
+# Calculation of Titan-quakes using Instaseis
 John W. Owens and Philip J. Carpenter
 
 Northern Illinois University
